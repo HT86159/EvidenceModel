@@ -30,8 +30,8 @@ pip install torch numpy matplotlib
 1. **Clone the Repository**
    
    ```sh
-   git clone https://github.com/yourusername/evidence_model_pytorch.git
-   cd evidence_model_pytorch
+   git clone https://github.com/HT86159/EvidenceModel.git
+   cd EvidenceModel
    ```
 
 2. **Load the Dataset and Model Weights**
@@ -84,7 +84,7 @@ This tutorial provides an in-depth exploration of evidence-based modeling in mac
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE null](LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -92,4 +92,4 @@ If you found this tutorial helpful, please consider starring the repository. Con
 
 ## Contact
 
-If you have any questions or feedback, feel free to open an issue or contact me at [your-email@example.com].
+If you have any questions or feedback, feel free to open an issue or contact me at [thuang@bjtu.edu.cn].
